@@ -1,0 +1,1 @@
+This repo adds a Dockerfile and build script to make it easier to build custom Raspberry Pi images using the first-party [rpi-image-gen](https://github.com/raspberrypi/rpi-image-gen) tool, but on a machine that is not a Raspberry Pi.
